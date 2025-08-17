@@ -1,0 +1,5 @@
+- name: Home
+  link: /
+
+- name: QRZ
+  link: https://www.qrz.com/db/KE2EHU
