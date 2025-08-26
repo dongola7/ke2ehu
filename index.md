@@ -26,7 +26,7 @@ projects are relevant to amateur radio:
 * [ADIF Tools](https://github.com/dongola7/adif_tools) - Tcl package used for
   processing ADIF files
 
-# Presentations
+## Presentations
 
 I sometimes do presentations on various amateur radio topics for my club. You
 can find these presentations below:
