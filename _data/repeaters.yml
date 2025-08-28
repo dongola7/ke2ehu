@@ -1,0 +1,34 @@
+#
+# List of repeaters used in the repeaters pages
+# 
+
+- call: KC2RC
+  link: https://www.kingscountyradioclub.com
+  location: Brooklyn, NY
+  output: 146.730
+  shift: -0.600
+  tone: PL 88.5
+  notes: Repeater for the Kings County Radio Club
+
+- call: W2VL
+  link: https://limarc.org/repeaters/
+  location: Glen Oaks, NY
+  output: 146.850
+  shift: -0.600
+  tone: PL 136.5
+  notes: Part of the LIMARC linked repeater network. Serves most of Long Island
+
+- call: WB2HWW
+  link: https://www.repeaterbook.com/repeaters//details.php?state_id=36&ID=63
+  location: Flushing, NY
+  output: 440.700
+  shift: +5.000
+  tone: PL 114.8
+
+- call: N2ROW
+  link: https://www.qsl.net/n/n2row/index.html
+  location: Brooklyn, NY
+  output: 441.100
+  shift: +5.000
+  tone: PL 136.5
+  notes: Used by the NYCResistor radio club (N2YCR)
