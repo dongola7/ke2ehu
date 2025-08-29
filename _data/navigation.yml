@@ -4,5 +4,11 @@
 - name: Repeaters
   link: /repeaters
 
+- name: Software
+  link: /software
+
+- name: Presentations
+  link: /presentations
+
 - name: QRZ
   link: https://www.qrz.com/db/KE2EHU
