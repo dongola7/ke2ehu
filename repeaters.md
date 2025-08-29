@@ -1,7 +1,7 @@
 ---
 title: Repeaters
 layout: default
-permalink: /repeaters/
+permalink: /repeaters
 ---
 
 <p>I frequently monitor the following repeaters located in and around NYC.</p>
