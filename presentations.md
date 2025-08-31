@@ -1,5 +1,6 @@
 ---
 title: Presentations
+description: Amateur radio presentations
 layout: default
 permalink: /presentations
 ---

@@ -1,5 +1,6 @@
 ---
 title: Repeaters
+description: Local repeaters in and around NYC
 layout: default
 permalink: /repeaters
 ---
