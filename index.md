@@ -8,7 +8,9 @@ layout: default
 ## About Me
 
 * Located at FN30br
-* Active in the [Kings County Radio Club](https://kingscountyradioclub.com)
+* Clubs
+  * Member of the [Kings County Radio Club](https://kingscountyradioclub.com)
+  * Member of the [NYC Resistor Ham Radio Club](https://wiki.nycresistor.com/wiki/Ham_Radio)
 * Reachable via:
   * ke2ehu at arrl dot net
   * me at ke2ehu dot com
