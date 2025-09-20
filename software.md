@@ -10,3 +10,7 @@ projects are relevant to amateur radio:
 
 * [ADIF Tools](https://github.com/dongola7/adif_tools) - Tcl package used for
   processing ADIF files
+* [hamclubbot](https://github.com/dongola7/hamclubbot) - A discord bot
+  intended for use in servers for Amateur Radio Clubs. Provides a series of
+  useful tools for managing the club, looking up weather conditions for
+  radio operation, etc.
